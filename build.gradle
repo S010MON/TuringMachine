@@ -24,8 +24,8 @@ tasks.withType(JavaCompile) {
 }
 
 application {
-    mainModule = 'com.turing.turingmachine'
-    mainClass = 'com.turing.turingmachine.HelloApplication'
+    mainModule = 'com.app'
+    mainClass = 'com.app.HelloApplication'
 }
 
 javafx {

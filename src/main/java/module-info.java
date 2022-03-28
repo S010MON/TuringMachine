@@ -1,4 +1,4 @@
-module com.turing.turingmachine {
+module com.app {
     requires javafx.controls;
     requires javafx.fxml;
 
